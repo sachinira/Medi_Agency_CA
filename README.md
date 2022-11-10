@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Medi Agency CA
 
 ## Available Scripts
 
@@ -41,6 +39,18 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `Login`
+Login provides capability to access the account. 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Default credentials**
+Redirect user to the `User Registration` page
+
+```
+username: admin
+password: admin
+```
+**Any Other Credential**
+
+Redirects user to the `Service Entry` page
+
+> Dropdowns and Tables are populated with dummy data.
